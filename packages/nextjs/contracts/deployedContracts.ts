@@ -7,7 +7,7 @@ import { GenericContractsDeclaration } from "~~/utils/scaffold-eth/contract";
 const deployedContracts = {
   30730: {
     TokenFactory: {
-      address: "0x865082688e233b262bea6e02f03a6cd011de428b",
+      address: "0x11416c4592ecd5be8d1e36ea13908a20c53f7601",
       abi: [
         {
           type: "function",
